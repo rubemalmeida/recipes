@@ -1,0 +1,13 @@
+{
+  "id": "heightapp",
+  "name": "Height App",
+  "version": "1.0.0",
+  "license": "MIT",
+  "aliases": [
+    "height",
+    "height-app"
+  ],
+  "config": {
+    "serviceURL": "https://height.app/"
+  }
+}
